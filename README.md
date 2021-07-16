@@ -20,3 +20,20 @@
 - [ ] Definir na page principal os produtos em destaque 2h
 - [ ] Integrar a cada produtos suas especificações 2h
 - [ ] Integrar ao site sistema de resposividade, para acesso em vários tipo de tela 3h
+
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [HTML]
+- [CSS]
+- [BootStrap4]
+
+⭐️ Desenvolvido por [Bruna Duarte](https://github.com/BrunaDuarte-3321)
+
+
+<a href="https://www.linkedin.com/in/bruna-duarte-7062451a3/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
