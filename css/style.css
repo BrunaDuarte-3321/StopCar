@@ -4,12 +4,23 @@
     --degrade:linear-gradient(180deg, #30CDC8 0%, rgba(44, 95, 93, 0.22) 100%);
     --verdeC: #04E9E2;
 }
+*{
+    font-family: 'Barlow Condensed', sans-serif;
+
+}
+.fundo{
+    background: black;
+}
+p,span{
+   font-weight: 600;
+   color: var(--verdeC)
+}
 body{
     padding-top:250px ;
-    padding-top: 250px;
-   
-    color: green;
+    padding-top: 240px;
     text-decoration: none;
+    
+
 }
 .box-shadown{
     box-shadow: 0 2px 4px 0  rgba(0, 0, 0, .05),
@@ -43,6 +54,21 @@ ul{
     background: var(--degrade);
 
 }
+.efeito{
+    border-radius: 5%;
+}
+.cors-degrade.efeito:hover{
+    background: var(--verde);
+    
+
+}
 .btn{
     background: var(--verde);
+}
+.text-claro{
+    color: var(--verdeC);
+}
+
+.dropdown-menu {
+    background-color: black;
 }
